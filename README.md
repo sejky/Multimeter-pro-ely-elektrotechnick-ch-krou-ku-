@@ -1,1 +1,1 @@
-# Multimeter-pro-úely-elektrotechnick-ch-krou-ku-
+# Multimeter pro účely elektrotechnických kroužků
