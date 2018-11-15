@@ -1,5 +1,7 @@
 # Multimeter pro účely elektrotechnických kroužků
 
+
+
 Multimetr bude umět:
 
 •	deska bude mít zabudovanou měřící jednotku
